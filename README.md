@@ -1,6 +1,4 @@
-Sure! Here's a concise README for your repository:
 
----
 
 # Repository Contents
 
